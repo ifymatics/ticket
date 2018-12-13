@@ -1,0 +1,8 @@
+//copy the folder ticket,UNZIP IT,and drop THE UNZIPPED ticket folder in the wampserver web folder
+//please copy the ticket_table.sql, create a db
+// you can use postman to test the api by using the api end points and the subsequent json files
+// 
+// api end points
+create ticket : http://localhost/ticket/ticket.php
+update or edit:http://localhost/ticket/update.php
+fetch all ticket:http://localhost/ticket/fetch_all.php
